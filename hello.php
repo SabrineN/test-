@@ -2,7 +2,4 @@
 
 echo 'Hello world' ;
 echo 'ser the difference';
-
-
-echo 'hhhhhhhhhhhh';
 ?>
